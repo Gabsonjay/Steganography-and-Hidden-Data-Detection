@@ -47,27 +47,27 @@ Evidence:  <br/>
 <img src="https://imgur.com/pEBDN3W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/6vja5gr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/9AhZ2sL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/CiuyJwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/RCSnrN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/PQdPOv5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create the Acquisition Directory:  <br/>
+Evidence:  <br/>
 <img src="https://imgur.com/lbOJ3pX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
